@@ -9,7 +9,8 @@
         Floris-Jan Kip
     </author>
     <content src="index.html" />
-	<access origin="*" />
+	<access origin="https://fjkip.nl" />
+	<access origin="https://use.fontawesome.com" />
 	
 	<plugin name="cordova-plugin-whitelist" source="npm" />
 	
