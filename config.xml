@@ -9,7 +9,7 @@
         Floris-Jan Kip
     </author>
     <content src="index.html" />
-	<access origin="https://fjkip.nl" />
+	<access origin="*" />
 	
 	<plugin name="cordova-plugin-whitelist" source="npm" />
 	
