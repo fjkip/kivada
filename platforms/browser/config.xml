@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="nl.kivada.breedenbroek" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <icon src="app-icon.png" />
+    <name>KiVaDa Breedenbroek</name>
+    <description>
+		App voor de Kinder Vakantie Dagen in Breedenbroek.
+    </description>
+    <author email="floris-jan@live.nl" href="https://fjkip.nl">
+        Floris-Jan Kip
+    </author>
+    <content src="index.html" />
+    <access launch-external="yes" origin="tel:*" />
+</widget>
