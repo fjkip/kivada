@@ -10,4 +10,7 @@
     </author>
     <content src="index.html" />
 	<access origin="https://fjkip.nl" />
+	
+	<plugin name="cordova-plugin-whitelist" source="npm" />
+	
 </widget>
