@@ -10,5 +10,4 @@
     </author>
     <content src="index.html" />
 	<access origin="https://fjkip.nl" />
-	<access origin="tel:*" launch-external="yes" />
 </widget>
